@@ -2,13 +2,14 @@
 
 آخرین ورژن تبچی تبچی رباتی بر پایه ورژن جدید سی ال آی با این ربات به تبلیغات در تلگرام بپردازید(ستاره یادتون نره)تبچی بدون دیلیت شدن
 
-
+* * *
 تبچی خودت رو بساز ;)
-
+* * *
+ربات های بیتر را به همراه آموزش در کانال  زیر 
 [@cracker_alliance](https://telegram.me/cracker_alliance)
 * * *
 
-### دستورات
+## دستورات
 
 
 | [#!/]help | راهنما  |
@@ -16,7 +17,7 @@
 
 * * *
 
-# نصب
+## نصب
 
 ```sh
 git clone https://github.com/mansourahmadi/tabchi
@@ -50,11 +51,11 @@ cd persianteam
 تمام ربات ها راه اندازی میشوند بدون خاموشی#
 ```
 ***
-### اموزش ها
+## اموزش ها
 [اموزش کامل نصب](https://telegram.me/cracker_alliance)
 
-### creator
+## creator
 [angry king](https://telegram.me/angry_king_98)
 
-### channel
+## channel
 [@cracker_alliance](https://telegram.me/cracker_alliance)
