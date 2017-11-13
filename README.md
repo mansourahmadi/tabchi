@@ -1,11 +1,11 @@
 # [Tabchi | v.1](https://telegram.me/cracker_alliance)
 
-آخرین ورژن تبچی تبچی رباتی بر پایه ورژن جدید سی ال آی با این ربات به تبلیغات در تلگرام بپردازید بدون تبلیغات ای تیم (ستاره یادتون نره)تبچی بدون دیلیت شدن
+آخرین ورژن تبچی تبچی رباتی بر پایه ورژن جدید سی ال آی با این ربات به تبلیغات در تلگرام بپردازید(ستاره یادتون نره)تبچی بدون دیلیت شدن
 
 
 تبچی خودت رو بساز ;)
 
-
+[@cracker_alliance](https://telegram.me/cracker_alliance)
 * * *
 
 ### دستورات
@@ -51,10 +51,10 @@ cd persianteam
 ```
 ***
 ### اموزش ها
-
 [اموزش کامل نصب](https://telegram.me/cracker_alliance)
 
 ### creator
 [angry king](https://telegram.me/angry_king_98)
+
 ### channel
-[cracker_alliance](https://telegram.me/cracker_alliance)
+[@cracker_alliance](https://telegram.me/cracker_alliance)
