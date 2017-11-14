@@ -6,6 +6,7 @@
 تبچی خودت رو بساز ;)
 * * *
 ربات های بیشتر را به همراه آموزش در کانال زیر دنبال کنید
+
 [@cracker_alliance](https://telegram.me/cracker_alliance)
 * * *
 
