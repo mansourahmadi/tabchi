@@ -5,7 +5,8 @@
 * * *
 تبچی خودت رو بساز ;)
 * * *
-ربات های بیتر را به همراه آموزش در کانال  زیر 
+ربات های بیتر را به همراه آموزش در کانال  زیر
+
 [@cracker_alliance](https://telegram.me/cracker_alliance)
 * * *
 
@@ -51,7 +52,7 @@ cd persianteam
 تمام ربات ها راه اندازی میشوند بدون خاموشی#
 ```
 ***
-```sh
+
 ## اموزش ها
 [اموزش کامل نصب](https://telegram.me/cracker_alliance)
 
@@ -60,4 +61,4 @@ cd persianteam
 
 ## channel
 [@cracker_alliance](https://telegram.me/cracker_alliance)
-```
+
