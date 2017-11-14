@@ -44,7 +44,7 @@ cd persianteam
 * * *
 ## اتولاچ
 ```sh
-cd persianteam
+cd tabchi
 ./bot autolaunch
 تمام ربات ها راه اندازی میشوند بدون خاموشی#
 ```
