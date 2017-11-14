@@ -19,7 +19,7 @@
 
 ```sh
 git clone https://github.com/mansourahmadi/tabchi
-cd persianteam
+cd tabchi
 chmod +x bot
 ./bot install
 # and send [y] to finish install
